@@ -9,3 +9,8 @@
 - Place 1
 - Place 2
 - Never go here
+
+### Other stuff that is great about Richmond
+- Blah
+- Blah
+- Blah
