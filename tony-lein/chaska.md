@@ -8,3 +8,5 @@
 ____
 
 ### Animals :cat:
+- Cat
+- Dog
