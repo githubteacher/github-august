@@ -6,4 +6,3 @@
 
 ----
 
-### Places of Interest
