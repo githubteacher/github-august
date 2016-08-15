@@ -5,4 +5,8 @@
 - Kin Lin (off Brookside Blvd) 
 - Sahara
 
-
+### Things to do
+- Plaza
+- Kemper Art Museum
+- Shawnee Mission Park
+- Westport
