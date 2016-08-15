@@ -10,3 +10,6 @@
 - Lonestar
 
 ----
+
+### Things To Do
+- see the Tragically Hip's last concert in their home town!! :+1:
