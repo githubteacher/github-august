@@ -11,3 +11,8 @@
 * New terrible football players
 * Alcohol
 
+### Things to do
+
+* World-class unappreciated museums
+* Terrible over-appreciated football
+* Get fat
