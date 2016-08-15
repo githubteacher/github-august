@@ -12,7 +12,7 @@
 - Navigate to this repository: https://github.com/githubteacher/github-june/
 
 ### Talk To Us! :speech_balloon:
-- [![Gitter](https://gitter.im/github-august/Lobby)
+- [![Gitter](https://badges.gitter.im/githubteacher/everyone-june-2016.svg)](https://gitter.im/github-august/Lobby)
 - :point_up_2: Click the button to join us on Gitter for Q&A
 
 ### Resources
